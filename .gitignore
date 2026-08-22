@@ -1,1 +1,3 @@
 netflix_titles.csv
+netflix.duckdb
+netflix.duckdb.wal
